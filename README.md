@@ -49,7 +49,7 @@ Technologies: `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
 
 ## 📜 Certifications
 
-- **Frontend Technology Olympiad** - Quera Event (*2023*)
+- **Frontend Technology Olympic** - Quera Event (*2023*)
 - **CS50x** - Harvard University (*2022*)
 - **Algorithm Arena Course** - Amirkabir University (*2022*)
 
