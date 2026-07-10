@@ -68,7 +68,7 @@ Technologies: `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
 ![Data Structures](https://img.shields.io/badge/Data_Structures-0A0A0A?style=for-the-badge)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-1A73E8?style=for-the-badge)
 ![Probability](https://img.shields.io/badge/Probability-FF6F00?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-004186?style=for-the-badge)
+![Network+](https://img.shields.io/badge/Network+-004186?style=for-the-badge)
 
 ---
 
