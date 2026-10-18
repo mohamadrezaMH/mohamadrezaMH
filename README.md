@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-Final-semester Computer Science undergraduate at **Amirkabir University of Technology (Tehran Polytechnic)**.  
+Fresh graduated Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**.  
 I have hands-on backend development experience and a strong passion for **Artificial Intelligence**, particularly its applications in **quantitative finance** and **data analysis**. I'm currently building scalable backend systems while planning to pursue a Master's degree in AI or Software Engineering.
 
 - 🔭 Building robust backend APIs with Python (FastAPI, Django, Flask)  
