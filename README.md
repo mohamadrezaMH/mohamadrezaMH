@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mohammadreza Mohammadi</h1>
-<h3 align="center">Computer Science Student at AUT | Backend Developer & AI Enthusiast</h3>
+<h3 align="center">Soft Computing & AI Student at AUT | DevOps Engineer at Paapeli & AI Enthusiast</h3>
 
 
 
@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 Fresh graduated Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**.  
-I have hands-on backend development experience and a strong passion for **Artificial Intelligence**, particularly its applications in **quantitative finance** and **data analysis**. I'm currently building scalable backend systems while planning to pursue a Master's degree in AI or Software Engineering.
+I have hands-on DevOps experience and a strong passion for **Artificial Intelligence**, particularly its applications in **quantitative finance** and **data analysis**.
 
 - 🔭 Building robust backend APIs with Python (FastAPI, Django, Flask)  
 - 🌱 Deepening knowledge in AI, optimization, and data science  
@@ -19,14 +19,25 @@ I have hands-on backend development experience and a strong passion for **Artifi
 
 ## 💼 Work Experience
 
+**Intern DevOps** - Paapeli, Tehran  
+*2026-Present*
+Technologies: `Cloud` `Docker` `Bash` `Linux` `Nginx` `Python`
+
+**Frontend Developer** - Rayan Arvin Algorithm, Tehran  
+*2025*
+Technologies: `JavaScript` `React`
+
 **Intern Frontend Developer** - BehineSazan Sarzamin Hooshmand, Tehran  
 *2023*  
 Technologies: `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
 
 ## 🎓 Education
 
-**Bachelor of Computer Science** - Amirkabir University of Technology (Tehran Polytechnic)  
+**Master of Science in Soft Computing & Artificial Intelligence** - Amirkabir University of Technology (Tehran Polytechnic)  
 *2022 - Present*
+
+**Bachelor of Computer Science** - Amirkabir University of Technology (Tehran Polytechnic)  
+*2022 - 2026*
 
 **Mathematics and Physics Diploma** - Moalem High School  
 *Graduated: 2020*
