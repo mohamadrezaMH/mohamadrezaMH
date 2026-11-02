@@ -34,7 +34,7 @@ Technologies: `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
 ## 🎓 Education
 
 **Master of Science in Soft Computing & Artificial Intelligence** - Amirkabir University of Technology (Tehran Polytechnic)  
-*2022 - Present*
+*2026 - Present*
 
 **Bachelor of Computer Science** - Amirkabir University of Technology (Tehran Polytechnic)  
 *2022 - 2026*
