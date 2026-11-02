@@ -20,11 +20,11 @@ I have hands-on DevOps experience and a strong passion for **Artificial Intellig
 ## 💼 Work Experience
 
 **Intern DevOps** - Paapeli, Tehran  
-*2026-Present*
+*2026-Present*  
 Technologies: `Cloud` `Docker` `Bash` `Linux` `Nginx` `Python`
 
 **Frontend Developer** - Rayan Arvin Algorithm, Tehran  
-*2025*
+*2025*  
 Technologies: `JavaScript` `React`
 
 **Intern Frontend Developer** - BehineSazan Sarzamin Hooshmand, Tehran  
