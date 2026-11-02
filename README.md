@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mohammadreza Mohammadi</h1>
-<h3 align="center">Soft Computing & AI Student at AUT | DevOps Engineer at Paapeli & AI Enthusiast</h3>
+<h3 align="center">Soft Computing & AI Student at AUT | DevOps Engineer at Paapeli</h3>
 
 
 
